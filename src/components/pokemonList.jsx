@@ -1,0 +1,20 @@
+const PokemonList = [
+    "venusaur",
+    "charmander",
+    "venusaur",
+    "charmander",
+    "charizard",
+    "squirtle",
+    "wartortle",
+    "blastoise",
+    "caterpie",
+    "metapod",
+    "butterfree",
+    "weedle",
+    "kakuna",
+    "beedrill",
+    "pidgey",
+    "pidgeotto",
+    "pidgeot",
+
+]
